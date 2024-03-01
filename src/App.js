@@ -1,8 +1,8 @@
 // import logo from './logo.svg';
 
-import Monitor from '../Rasmlar/Monitor.png';
-import Phone from '../Rasmlar/Phone.png';
-import Plansheet from '../Rasmlar/Plansheet.png';
+// import Monitor from '../Rasmlar/Monitor.png';
+import Phone from './Phone.png';
+import Plansheet from './Plansheet.png';
 import  Monitor  from "./Monitor.png";
 import './App.css';
 
