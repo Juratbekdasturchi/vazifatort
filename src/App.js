@@ -19,9 +19,9 @@ function App() {
           <img src={Phone} alt="" />
           <img src={Plansheet} alt="" />
         </div>
-        <div className='buttoncha'>
-          <img src={Github} alt="" />
-          <button > Free Download</button>
+        <div className='left'>
+          <img src={Github} className='rasm1' alt="" />
+          <button className='buttoncha'>Free Download</button>
         </div>
       </div>
       <header className="App-header">
