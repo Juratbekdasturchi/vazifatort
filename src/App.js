@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import Monitor from '../Rasmlar/Monitor.png';
-import Monitor from '../Rasmlar/Phone.png';
-import Monitor from '../Rasmlar/Plansheet.png';
+import Phone from '../Rasmlar/Phone.png';
+import Plansheet from '../Rasmlar/Plansheet.png';
 import './App.css';
 
 function App() {
