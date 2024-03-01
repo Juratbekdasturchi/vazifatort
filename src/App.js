@@ -3,7 +3,8 @@
 // import Monitor from '../Rasmlar/Monitor.png';
 import Phone from './Phone.png';
 import Plansheet from './Plansheet.png';
-import  Monitor  from "./Monitor.png";
+import Monitor from "./Monitor.png";
+import Github from "./github.png";
 import './App.css';
 
 function App() {
@@ -18,9 +19,9 @@ function App() {
           <img src={Phone} alt="" />
           <img src={Plansheet} alt="" />
         </div>
-        <div>
-          <img src="" alt="" />
-          <button> Free Download</button>
+        <div className='buttoncha'>
+          <img src={Github} alt="" />
+          <button > Free Download</button>
         </div>
       </div>
       <header className="App-header">

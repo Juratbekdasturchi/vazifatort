@@ -3,12 +3,21 @@
   justify-content: space-between;
   padding: 0 20px;
   background-color: aquamarine;
+  align-items: center;
 }
 .rasm{
   width: 60px;
   height: 60px;
   display: flex;
   justify-content: center;
+  gap: 20px
+}
+.buttoncha{
+  background-color: bisque;
+  color: rgb(197, 18, 18);
+  display: flex;
+  justify-content: space-between;
+
 }
 
 .App {
