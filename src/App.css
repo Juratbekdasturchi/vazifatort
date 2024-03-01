@@ -17,16 +17,19 @@
 .left {
   display: flex;
   justify-content: space-between;
+  gap: 20px;
 }
 
 .rasm1 {
-  width: 40px;
+  width: 20px;
+  border-radius: 100%;
 }
 
 .buttoncha {
   border-radius: 10px;
   background-color: bisque;
   color: rgb(197, 18, 18);
+  border: none;
 }
 
 .App {
@@ -45,7 +48,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
