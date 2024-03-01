@@ -6,7 +6,9 @@
 }
 .rasm{
   width: 60px;
-  height: 60pc;
+  height: 60px;
+  display: flex;
+  justify-content: center;
 }
 
 .App {
