@@ -2,7 +2,7 @@
   display: flex;
   justify-content: space-between;
   padding: 0 20px;
-  background-color: aquamarine;
+  background-color: whitesmoke;
   align-items: center;
 }
 
@@ -30,6 +30,7 @@
   background-color: bisque;
   color: rgb(197, 18, 18);
   border: none;
+  padding: 10px 15px;
 }
 
 .App {

@@ -31,6 +31,9 @@ function App() {
         </p> */}
 
       </header>
+      <main>
+        <h1> Assalomu alaykum </h1>
+        </main>
     </div>
   );
 }
