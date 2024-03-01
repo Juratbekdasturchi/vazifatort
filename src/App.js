@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <div className='header-top'>
         <div>
-          <button> Overview Page </button>
+          <p> Overview Page </p>
         </div>
         <div className='rasm'>
           <img src={Monitor} alt="" />
