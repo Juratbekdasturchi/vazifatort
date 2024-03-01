@@ -4,7 +4,25 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> Salom TOSHKENT Ok </h1>
+      <div>
+        <div>
+        <button> Overview Page </button>
+        </div>
+        <div>
+          <p> Salom </p>
+          <img src="" alt="" />
+          <p> Salom </p>
+
+          <img src="" alt="" />
+          <p> Salom </p>
+
+          <img src="" alt="" />
+        </div>
+        <div>
+          <img src="" alt="" />
+          <button> Free Download</button>
+        </div>
+      </div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
