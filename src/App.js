@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+
 import Monitor from '../Rasmlar/Monitor.png';
 import Phone from '../Rasmlar/Phone.png';
 import Plansheet from '../Rasmlar/Plansheet.png';
@@ -12,7 +13,6 @@ function App() {
           <button> Overview Page </button>
         </div>
         <div>
-
           <img src={Monitor} alt="" />
           <img src={Phone} alt="" />
           <img src={Plansheet} alt="" />
@@ -27,14 +27,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
     </div>
   );
