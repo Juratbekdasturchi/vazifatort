@@ -3,6 +3,7 @@
 import Monitor from '../Rasmlar/Monitor.png';
 import Phone from '../Rasmlar/Phone.png';
 import Plansheet from '../Rasmlar/Plansheet.png';
+import  Monitor  from "./Monitor.png";
 import './App.css';
 
 function App() {
