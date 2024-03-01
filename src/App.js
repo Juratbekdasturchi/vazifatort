@@ -13,7 +13,7 @@ function App() {
         <div>
           <button> Overview Page </button>
         </div>
-        <div>
+        <div className='rasm'>
           <img src={Monitor} alt="" />
           <img src={Phone} alt="" />
           <img src={Plansheet} alt="" />
