@@ -1,4 +1,7 @@
 import logo from './logo.svg';
+import Monitor from '../Rasmlar/Monitor.png';
+import Monitor from '../Rasmlar/Phone.png';
+import Monitor from '../Rasmlar/Plansheet.png';
 import './App.css';
 
 function App() {
@@ -6,17 +9,13 @@ function App() {
     <div className="App">
       <div className='header-top'>
         <div>
-        <button> Overview Page </button>
+          <button> Overview Page </button>
         </div>
         <div>
-          <p> Salom </p>
-          <img src="" alt="" />
-          <p> Salom </p>
 
-          <img src="" alt="" />
-          <p> Salom </p>
-
-          <img src="" alt="" />
+          <img src={Monitor} alt="" />
+          <img src={Phone} alt="" />
+          <img src={Plansheet} alt="" />
         </div>
         <div>
           <img src="" alt="" />
