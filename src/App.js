@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 
 import Monitor from '../Rasmlar/Monitor.png';
 import Phone from '../Rasmlar/Phone.png';
@@ -23,10 +23,10 @@ function App() {
         </div>
       </div>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-        </p>
+        </p> */}
 
       </header>
     </div>
