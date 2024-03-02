@@ -44,7 +44,7 @@ function App() {
         </div>
       </main>
       <aside>
-        <h1> Shop in style </h1>
+        <h1 > Shop in style </h1>
         <p> With this shop hompeage template</p>
       </aside>
     </div>
