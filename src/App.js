@@ -28,8 +28,8 @@ function App() {
       <main>
         <h1> Start Bootstrap  </h1>
         <div>
-        <a> Home </a>
-        <a> About </a>
+        <li> Home </li>
+        <li> About </li>
         <select name="" id="">
           <option value=""> All Products </option>
           <hr></hr>
@@ -40,8 +40,8 @@ function App() {
         </div>
         <div>
           <img src= {Github} alt="" />
-          <a> Cart </a>
-          <a> O </a>
+          <li> Cart </li>
+          <li> O </li>
         </div>
         </main>
     </div>
