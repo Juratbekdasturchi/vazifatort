@@ -55,7 +55,7 @@ function App() {
           <button className='card-button'> View options </button>
         </div>
       </div>
-      <footer> </footer>
+      <footer> Copyright © Your Website 2023 </footer>
     </div>
   );
 }
