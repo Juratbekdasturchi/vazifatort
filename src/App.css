@@ -114,6 +114,7 @@ li {
   border-radius: 10px;
   background-color: bisque;
   display: flex;
+  flex-direction: column;
   gap: 20px;
 }
 
