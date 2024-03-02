@@ -26,7 +26,23 @@ function App() {
       </div>
 
       <main>
-        <h1> Assalomu alaykum </h1>
+        <h1> Start Bootstrap  </h1>
+        <div>
+        <a> Home </a>
+        <a> About </a>
+        <select name="" id="">
+          <option value=""> All Products </option>
+          <hr></hr>
+          <option value="1"> Poular Items</option>
+          <option value="2"> New Arrivals</option>
+
+        </select>
+        </div>
+        <div>
+          <img src= {Github} alt="" />
+          <a> Cart </a>
+          <a> O </a>``
+        </div>
         </main>
     </div>
   );
