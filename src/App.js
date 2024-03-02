@@ -47,6 +47,14 @@ function App() {
         <h1 className='shop'> Shop in style </h1>
         <p> With this shop hompeage template</p>
       </aside>
+      <div className='cards'>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
+      </div>
     </div>
   );
 }
