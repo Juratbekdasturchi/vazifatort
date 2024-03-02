@@ -28,21 +28,25 @@ function App() {
       <main>
         <h1> Start Bootstrap  </h1>
         <div className='middle'>
-        <li> Home </li>
-        <li> About </li>
-        <select name="" id="">
-          <option value=""> All Products </option>
-          <option value="1"> Poular Items</option>
-          <option value="2"> New Arrivals</option>
+          <li> Home </li>
+          <li> About </li>
+          <select name="" id="">
+            <option value=""> All Products </option>
+            <option value="1"> Poular Items</option>
+            <option value="2"> New Arrivals</option>
 
-        </select>
+          </select>
         </div>
         <div className='right'>
-          <img src= {Github} className='rasm1' alt="" />
+          <img src={Github} className='rasm1' alt="" />
           <li> Cart </li>
           <li className='o'> O </li>
         </div>
-        </main>
+      </main>
+      <aside>
+        <h1> Shop in style </h1>
+        <p> With this shop hompeage template</p>
+      </aside>
     </div>
   );
 }
