@@ -1,4 +1,4 @@
-body {
+ *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -10,6 +10,9 @@ body {
   padding: 0 20px;
   background-color: whitesmoke;
   align-items: center;
+}
+.pcha{
+  color: rgb(147, 137, 137);
 }
 
 .rasm {
@@ -117,8 +120,7 @@ li {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  padding-top: 0;
-  margin-top: 0;
+padding: 0 20px;
 }
 
 .pnomli {
@@ -128,8 +130,7 @@ li {
   background-color: grey;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-  padding-top: 0;
-  margin-top: 0;
+
 }
 }
 
