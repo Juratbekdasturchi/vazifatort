@@ -133,7 +133,7 @@
    background-color: grey;
    border-top-left-radius: 10px;
    border-top-right-radius: 10px;
-padding-top: 50%;
+padding-top: 45%;
  }
 
 
@@ -144,4 +144,7 @@ padding-top: 50%;
    margin: 0 20px;
    border-radius: 8px;
    /* margin-top: 40px; */
+ }
+ .card-button:hover{
+  background-color: black;
  }
