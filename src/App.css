@@ -63,9 +63,8 @@ main {
   align-items: center;
   background-color: rgb(156, 184, 208);
   border: 1px solid black;
-
-
-
+  padding: 4px 8px;
+  border-radius: 8px;
 }
 
 aside {
