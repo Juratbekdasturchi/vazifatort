@@ -39,9 +39,9 @@ function App() {
         </select>
         </div>
         <div>
-          <img src= {Github} alt="" />
+          <img src= {Github} className='rasm1' alt="" />
           <li> Cart </li>
-          <li> O </li>
+          <li className='o'> O </li>
         </div>
         </main>
     </div>

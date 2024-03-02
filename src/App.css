@@ -32,6 +32,24 @@
   border: none;
   padding: 10px 15px;
 }
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  background-color: aliceblue;
+}
+hr{
+  color: red;
+}
+li{
+  text-decoration: none;
+}
+.o{
+  background-color: black;
+  border-radius: 100%;
+  color: white;
+  width: 20px;
+}
 
 .App {
   text-align: center;
