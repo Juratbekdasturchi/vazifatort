@@ -44,8 +44,8 @@
 
 main {
   display: flex;
-  justify-content: space-between;
-  padding: 20 80px;
+  justify-content: center;
+  padding: 20px 80px;
   background-color: aliceblue;
   align-items: center;
   margin: 0;
@@ -130,6 +130,8 @@ li {
   background-color: grey;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  line-height: 100%;
+  align-items: center;
 
 }
 
@@ -138,5 +140,6 @@ li {
   background-color: whitesmoke;
   padding: 8px 16px;
   border: 1px solid black;
+  margin: 0 20px;
   /* margin-top: 40px; */
 }
