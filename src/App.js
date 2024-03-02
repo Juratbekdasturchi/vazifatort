@@ -41,7 +41,7 @@ function App() {
         <div>
           <img src= {Github} alt="" />
           <a> Cart </a>
-          <a> O </a>``
+          <a> O </a>
         </div>
         </main>
     </div>
