@@ -27,7 +27,7 @@ function App() {
 
       <main>
         <h1> Start Bootstrap  </h1>
-        <div>
+        <div className='middle'>
         <li> Home </li>
         <li> About </li>
         <select name="" id="">
@@ -38,7 +38,7 @@ function App() {
 
         </select>
         </div>
-        <div>
+        <div className='right'>
           <img src= {Github} className='rasm1' alt="" />
           <li> Cart </li>
           <li className='o'> O </li>
