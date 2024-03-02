@@ -24,13 +24,7 @@ function App() {
           <button className='buttoncha'>Free Download</button>
         </div>
       </div>
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p> */}
 
-      </header>
       <main>
         <h1> Assalomu alaykum </h1>
         </main>
