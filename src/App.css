@@ -1,8 +1,9 @@
-body{
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 .header-top {
   display: flex;
   justify-content: space-between;
@@ -58,6 +59,10 @@ main {
   justify-content: center;
   gap: 20px;
   align-items: center;
+  background-color: rgb(156, 184, 208);
+  border: 1px solid black;
+
+
 
 }
 
@@ -69,12 +74,12 @@ aside {
   padding: 0;
 }
 
- .shop{
+.shop {
   font-size: 32px;
   color: white;
 }
 
-p{
+p {
   font-size: 32px;
   color: white;
 }
