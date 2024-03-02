@@ -158,4 +158,7 @@
    background-color: black;
    color: white;
    width: 1400px;
+   display: grid;
+   grid-template-columns: 1fr;
+   grid-template-rows: 1fr;
  }
