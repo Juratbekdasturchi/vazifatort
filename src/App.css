@@ -103,7 +103,11 @@ li {
   text-align: center;
 }
 
-
+.cards{
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+}
 .card {
   width: 200px;
   height: 400px;
@@ -116,10 +120,14 @@ li {
   height: 200px;
   color: rgb(93, 73, 73);
   background-color: grey;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  line-height: 100%;
 }
 
 .card-button {
   background-color: whitesmoke;
   padding: 8px 16px;
   border: 1px solid black;
+  margin-top: 40px;
 }
