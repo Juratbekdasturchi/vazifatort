@@ -112,10 +112,9 @@
    display: grid;
    justify-content: center;
    gap: 20px;
-
    padding: 40px auto;
    grid-template-rows: 420px 420px;
-   grid-template-columns: 400px 400px 400px 400px;
+   grid-template-columns: 200px 200px 200px 200px;
  }
 
  .card {
@@ -158,5 +157,5 @@
  footer {
    background-color: black;
    color: white;
-   width: 100px;
+   width: 1400px;
  }
