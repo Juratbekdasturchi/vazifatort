@@ -55,6 +55,7 @@ function App() {
           <button className='card-button'> View options </button>
         </div>
       </div>
+      <footer> </footer>
     </div>
   );
 }
