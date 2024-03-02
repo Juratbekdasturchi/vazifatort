@@ -38,26 +38,25 @@ main {
   justify-content: space-between;
   padding: 0 20px;
   background-color: aliceblue;
-  align-content: center;
+  align-items: center
 }
 
 .middle {
   display: flex;
   justify-content: center;
   gap: 20px;
-  align-content: center;
+  align-items: center;
 }
 
 .right {
   display: flex;
   justify-content: center;
-  align-content: center;
   gap: 20px;
+  align-items: center;
+
 }
 
-hr {
-  color: red;
-}
+
 
 li {
   text-decoration: none;

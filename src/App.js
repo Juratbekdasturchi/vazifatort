@@ -32,7 +32,6 @@ function App() {
         <li> About </li>
         <select name="" id="">
           <option value=""> All Products </option>
-          <hr></hr>
           <option value="1"> Poular Items</option>
           <option value="2"> New Arrivals</option>
 
