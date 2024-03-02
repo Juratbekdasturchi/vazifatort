@@ -44,7 +44,9 @@ main {
   justify-content: space-between;
   padding: 0 80px;
   background-color: aliceblue;
-  align-items: center
+  align-items: center;
+  margin: 0;
+
 }
 
 .middle {
