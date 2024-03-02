@@ -46,6 +46,7 @@
  main {
    display: flex;
    justify-content: center;
+   gap: 100px;
    padding: 20px 80px;
    background-color: aliceblue;
    align-items: center;

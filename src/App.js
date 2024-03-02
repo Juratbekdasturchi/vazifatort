@@ -54,6 +54,48 @@ function App() {
           <span>$40.00-$80.00</span>
           <button className='card-button'> View options </button>
         </div>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
+        <div className='card'>
+          <p className='pnomli'>450x300</p>
+          <h3>Fancy Product </h3>
+          <span>$40.00-$80.00</span>
+          <button className='card-button'> View options </button>
+        </div>
       </div>
       <footer> Copyright © Your Website 2023 </footer>
     </div>
